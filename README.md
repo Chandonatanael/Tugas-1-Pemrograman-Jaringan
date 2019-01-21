@@ -71,7 +71,7 @@ Cara kerja dari hasil program diatas adalah hasil dari 5 variabel dengan nilai y
 
 Cara kerja dari hasil program diatas adalah sebuah  program penjumlahan sederhana menggunakan 2 buah fungsi penjumlahan yang berbeda. Hasil 1 + 2 = 3 diperoleh dengan menggunakan fungsi dengan penjumlahan 2 variabel yang mana 2 variabel tersebut adalah 1 dan 2, sedangkan hasil 1 + 2 + 3 = 6 diperoleh dengan menggunakan fungsi dengan tiga penjumlahan 3 variabel yaitu 1, 2 dan 3.
 
-##Struct dan Method
+## Struct dan Method
 ### - Struct
 Code Program :  
 <p align="center">
