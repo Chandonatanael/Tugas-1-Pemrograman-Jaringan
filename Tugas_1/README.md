@@ -6,7 +6,7 @@
 ## TCP Finite State Machine
 
 <p align="center">
-  <img width="460" height="500" src="Finite_state_mechine.gif">
+  <img width="460" height="500" src="Screenshoot/Finite_state_mechine.gif">
 </p>
 
 Diagram finite state mechine dari tcp connection diatas adalah sebuah metodologi perancangan sistem kontrol yang menggambarakan tingkah laku atau prinsip kerja dari Koneksi tcp dengan menerapkan state ( Keadaan ), Event ( Kejadian ) dan action ( Aksi ) .
