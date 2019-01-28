@@ -91,10 +91,6 @@ Deskripsi :
  
 ## Multi-Threaded Server 2
 
-Code Program :
-<p align="center">
-  <img width="510" height="840" src="Screenshoot Code 2/Server3.png">
-
 Hasil Running :
 <p align="center">
   "On Progress"
