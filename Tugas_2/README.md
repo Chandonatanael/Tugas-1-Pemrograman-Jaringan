@@ -62,10 +62,18 @@ Code Program :
 <p align="center">
   <img width="450" height="320" src="Screenshoot Code 2/Ping2.png">
 </p>
-
+<p align="center">
+  <img width="450" height="320" src="Screenshoot Code 2/Ping3.png">
+</p>
+<p align="center">
+  <img width="450" height="320" src="Screenshoot Code 2/Ping4.png">
+</p>
+<p align="center">
+  <img width="450" height="320" src="Screenshoot Code 2/Ping5.png">
+</p>
 Hasil Running :
 <p align="center">
-  <img width="580" height="150" src="Ping/Ping.png">
+  <img width="500" height="80" src="Ping/Ping.png">
 </p>
 
 Finite State Machine :
