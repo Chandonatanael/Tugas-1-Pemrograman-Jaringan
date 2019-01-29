@@ -45,7 +45,7 @@ Code Program :
 
 Hasil Running :
 <p align="center">
-  <img width="580" height="150" src="GetHeadInfo/GetHeadInfo.png">
+  <img width="380" height="150" src="GetHeadInfo/GetHeadInfo2.png">
 </p>
 
 Finite State Machine :
