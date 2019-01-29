@@ -16,7 +16,7 @@ Hasil Running :
 
 Finite State Machine :
 <p align="center">
-  "On progress"
+  <img width="410" height="250" src="ResolveIP/FSM_ResolveIP.png">
  </p>
  
 ## Service Lookup ( LookupPort )
@@ -33,7 +33,7 @@ Hasil Running :
 
 Finite State Machine :
 <p align="center">
-  "On progress"
+  <img width="410" height="250" src="LookupPort/FSM_LookUpPort.png">
  </p>
  
 ## TCP Client ( GetHeadInfo )
@@ -50,7 +50,7 @@ Hasil Running :
 
 Finite State Machine :
 <p align="center">
-  "On progress"
+  <img width="410" height="250" src="GetHeadInfo/FSM_GetHeadInfo3.png">
  </p>
  
  ## Raw Sockets and the IPConn Type ( Ping )
