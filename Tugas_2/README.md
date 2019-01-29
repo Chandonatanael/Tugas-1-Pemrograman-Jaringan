@@ -60,16 +60,16 @@ Code Program :
   <img width="410" height="340" src="Screenshoot Code 2/Ping.png">
 </p>
 <p align="center">
-  <img width="450" height="320" src="Screenshoot Code 2/Ping2.png">
+  <img width="400" height="320" src="Screenshoot Code 2/Ping2.png">
 </p>
 <p align="center">
-  <img width="450" height="320" src="Screenshoot Code 2/Ping3.png">
+  <img width="350" height="220" src="Screenshoot Code 2/Ping3.png">
 </p>
 <p align="center">
-  <img width="450" height="320" src="Screenshoot Code 2/Ping4.png">
+  <img width="350" height="220" src="Screenshoot Code 2/Ping4.png">
 </p>
 <p align="center">
-  <img width="450" height="320" src="Screenshoot Code 2/Ping5.png">
+  <img width="350" height="220" src="Screenshoot Code 2/Ping5.png">
 </p>
 Hasil Running :
 <p align="center">
