@@ -1,8 +1,8 @@
 # Tugas 4 Pemrograman Jaringan (Kelompok)
 ### Anggota :
-### - Alvien Ihsan Ramadhan &emsp; &emsp;&emsp;&emsp;&emsp; (1301150088)
-### - Chando Anggara Natanael Batubara    (1301154390)
-### - Chindy Amalia &emsp; &emsp;  &emsp;&emsp;  &emsp;&emsp; &emsp;&emsp;        (1301164301)
+### - Alvien Ihsan Ramadhan&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(1301150088)
+### - Chando Anggara Natanael Batubara&nbsp;(1301154390)
+### - Chindy Amalia&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(1301164301)
 <br></br>
 
 ## JSON (Javascript Object Notation)
