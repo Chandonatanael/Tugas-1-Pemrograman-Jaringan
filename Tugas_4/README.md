@@ -47,7 +47,7 @@ Terdapat type Person  struct : hasil decode nantinya akan disimpan ke variabel o
 Dapat disimpulkan bahwa cara kerja dari program diatas adalah membuat  data json string kedalam struct yaitu person dengan menggunakan fungsi UnMarshal.
 </p>
 
-### Flatbuffer dan Protocol Buffer
+## Flatbuffer dan Protocol Buffer
 Contoh program gRPC Flatbuffer bisa di download pada repository github berikut : 
 https://github.com/jonog/grpc-flatbuffers-example 
 
