@@ -30,5 +30,5 @@ Nah, data yang dikirim dari server ke browser dikenal dengan HTTP response. Jika
 
 ## Web Server Implementation
 <p align="center">
-  "on progress"
+  <img width="750" height="500" src="SimpleWebServer.png">
 </p>
